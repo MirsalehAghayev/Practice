@@ -1,0 +1,32 @@
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork1506ConsolAppCourse\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\LEGION\OneDrive\İş masası\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
